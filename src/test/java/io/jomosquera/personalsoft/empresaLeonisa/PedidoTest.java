@@ -51,4 +51,17 @@ public class PedidoTest {
         boolean asignadoTeen = pedidos.contains(teen);
         Assert.assertTrue("No se ha asignado un producto 'Teen' al pedido", asignadoTeen);
     }
+
+    @Test
+    public void totalCompra() {
+
+    }
+
+    @Test
+    public void testTotalCompra() {
+    }
+
+    @Test
+    public void testTotalCompra1() {
+    }
 }
